@@ -13,7 +13,7 @@ namespace ReverseStringSpace
 	class ReverseStringClass
 	{
 	public:
-		void ReverseString (string &s);//Define ReverseString Method
+		void ReverseString (string &s);//Declare ReverseString Method
 	};
 }
 #endif
